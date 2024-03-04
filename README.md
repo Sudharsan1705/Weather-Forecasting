@@ -12,7 +12,7 @@ To use this project, you need to obtain an API key from [OpenWeatherMap](https:/
 - And also it give five days weather forecast details for that location
 
 ## Demo
-You can try the live demo here: [Check_Weather](https://bala174.github.io/Weather_forecasting/).
+You can try the live demo here: [Check_Weather](https://sudharsan1705.github.io/Weather-Forecasting/).
 
 ### Installation
 
